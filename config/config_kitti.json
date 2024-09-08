@@ -1,0 +1,6 @@
+{
+    "path_source_cloud": "../data/KITTI/09/1391_v0.3.pcd",
+    "path_target_cloud": "../data/KITTI/09/1380_v0.3.pcd",
+    "path_matches": "../data/KITTI/09/1391_1380_top3.match",
+    "path_gt": "../data/KITTI/09/1391-1380.pose"
+}
