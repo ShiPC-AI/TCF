@@ -13,6 +13,17 @@
   <em>(b) Outlier Removal</em>
 </p>
 
+##  Citation
+If this work is useful for your research, please consider citing our paper:
+```
+@article{shi2024ransac,
+  title={RANSAC Back to SOTA: A Two-stage Consensus Filtering for Real-time 3D Registration},
+  author={Shi, Pengcheng and Yan, Shaocheng and Xiao, Yilin and Liu, Xinyi and Zhang, Yongjun and Li, Jiayuan},
+  journal={arXiv preprint arXiv:2410.15682},
+  year={2024}
+}
+```
+
 ## Dependencies
 - **CMake**
 - **PCL** (Point Cloud Library)
