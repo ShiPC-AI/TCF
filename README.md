@@ -1,7 +1,7 @@
 <h1 align="center">TCF (Two-stage Consensus Filtering)</h1>
 
 <p style="text-align: justify;">
-<strong>TCF</strong> is a 3D correspondence-based point cloud registration method. It has been submitted to <strong>IEEE RAL</strong>. It elevates RANSAC to SOTA speed and accuracy. Firstly, one-point RANSAC obtains a consensus set based on length consistency. Subsequently, two-point RANSAC refines the set via angle consistency. Then, three-point RANSAC computes a coarse pose and removes outliers based on transformed correspondence’s distances. Drawing on optimizations from one-point and two-point RANSAC, three-point RANSAC requires only a few iterations. Eventually, an iterative reweighted least squares (IRLS) is applied to yield the optimal pose.
+<strong>TCF</strong> is a 3D correspondence-based point cloud registration method. It elevates RANSAC to SOTA speed and accuracy. Firstly, one-point RANSAC obtains a consensus set based on length consistency. Subsequently, two-point RANSAC refines the set via angle consistency. Then, three-point RANSAC computes a coarse pose and removes outliers based on transformed correspondence’s distances. Drawing on optimizations from one-point and two-point RANSAC, three-point RANSAC requires only a few iterations. Eventually, an iterative reweighted least squares (IRLS) is applied to yield the optimal pose.
 </p>
 
 <p align="center">
@@ -13,15 +13,21 @@
   <em>(b) Outlier Removal</em>
 </p>
 
+##  News
+- **2024.11:** TCF has been accepted for <strong>IEEE Robotics and Automation Letters</strong>. [Early Access Paper](https://ieeexplore.ieee.org/document/10758239).
+
 ##  Citation
-If this work is useful for your research, please consider citing our paper:
+If this work is useful for your research, please consider citing our paper (early access version):
 ```
-@article{shi2024ransac,
-  title={RANSAC Back to SOTA: A Two-stage Consensus Filtering for Real-time 3D Registration},
+@ARTICLE{10758239,
   author={Shi, Pengcheng and Yan, Shaocheng and Xiao, Yilin and Liu, Xinyi and Zhang, Yongjun and Li, Jiayuan},
-  journal={arXiv preprint arXiv:2410.15682},
-  year={2024}
-}
+  journal={IEEE Robotics and Automation Letters}, 
+  title={RANSAC Back to SOTA: A Two-Stage Consensus Filtering for Real-Time 3D Registration}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-8},
+  doi={10.1109/LRA.2024.3502056}}
 ```
 
 ## Dependencies
