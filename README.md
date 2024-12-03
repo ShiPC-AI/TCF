@@ -24,9 +24,9 @@ If this work is useful for your research, please consider citing our paper (earl
   journal={IEEE Robotics and Automation Letters}, 
   title={RANSAC Back to SOTA: A Two-Stage Consensus Filtering for Real-Time 3D Registration}, 
   year={2024},
-  volume={},
-  number={},
-  pages={1-8},
+  volume={9},
+  number={12},
+  pages={11881-11888},
   doi={10.1109/LRA.2024.3502056}}
 ```
 
