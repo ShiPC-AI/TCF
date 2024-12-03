@@ -14,7 +14,7 @@
 </p>
 
 ##  News
-- **2024.11:** TCF has been accepted for <strong>IEEE Robotics and Automation Letters</strong>. [Early Access Paper](https://ieeexplore.ieee.org/document/10758239).
+- **2024.11:** TCF has been accepted for *IEEE Robotics and Automation Letters*: [Paper](https://ieeexplore.ieee.org/document/10758239).
 
 ##  Citation
 If this work is useful for your research, please consider citing our paper (early access version):
