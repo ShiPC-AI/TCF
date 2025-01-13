@@ -5,19 +5,20 @@
 </p>
 
 <p align="center">
-  <img src="figures/framework-a.png" alt="Subfigure 1" width="95%"><br>
+  <img src="figures/framework-a.png" alt="Subfigure 1" width="85%"><br>
   <em>(a) Overall framework</em>
 </p>
 <p align="center">
-  <img src="figures/framework-b.png" alt="Subfigure 2" width="95%"><br>
+  <img src="figures/framework-b.png" alt="Subfigure 2" width="85%"><br>
   <em>(b) Outlier Removal</em>
 </p>
 
 ##  News
-- **2024.11:** TCF has been accepted for *IEEE Robotics and Automation Letters*: [Paper](https://ieeexplore.ieee.org/document/10758239).
+- **2025.01:** The preprocessed dataset in TCF is available: [Dataset Available](https://drive.google.com/drive/folders/1uKN2pqymFc85tY13Cw7kUNop7uQOEOSB).
+- **2024.11:** TCF has been accepted for *IEEE Robotics and Automation Letters*: [Published Paper](https://ieeexplore.ieee.org/document/10758239).
 
 ##  Citation
-If this work is useful for your research, please consider citing our paper (early access version):
+If you use code of TCF in your academic research, please cite our paper:
 ```
 @ARTICLE{10758239,
   author={Shi, Pengcheng and Yan, Shaocheng and Xiao, Yilin and Liu, Xinyi and Zhang, Yongjun and Li, Jiayuan},
