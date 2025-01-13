@@ -18,7 +18,7 @@
 - **2024.11:** TCF has been accepted for *IEEE Robotics and Automation Letters*: [Published Paper](https://ieeexplore.ieee.org/document/10758239).
 
 ##  Citation
-If you use code of TCF in your academic research, please cite our paper:
+If you use code or data of TCF in your academic research, please cite our paper:
 ```
 @ARTICLE{10758239,
   author={Shi, Pengcheng and Yan, Shaocheng and Xiao, Yilin and Liu, Xinyi and Zhang, Yongjun and Li, Jiayuan},
