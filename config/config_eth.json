@@ -1,6 +1,6 @@
 {
     "path_source_cloud": "../data/ETH_TLS/facade/s3_v0.1_sor.pcd",
-    "path_target_cloud": "../data/ETH_TLS/facade/s3_v0.1_sor.pcd",
+    "path_target_cloud": "../data/ETH_TLS/facade/s1_v0.1_sor.pcd",
     "path_matches": "../data/ETH_TLS/facade/s3_s1_top3.match",
     "path_gt": "../data/ETH_TLS/facade/s3-s1.pose"
 }
